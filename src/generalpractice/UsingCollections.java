@@ -156,7 +156,7 @@ public class UsingCollections {
 	}
 
 	private void workingWithMap() {
-		// A HashMap maps keys to values, simmilar to Hashtable, but its not synchronized.
+		// A HashMap maps keys to values, similar to Hashtable, but its not synchronized.
 		// A HashMap should perform better for non-threaded applications.
 		System.out.println("--- Working with HashMap ---");
 		Map<String, Integer> values = new HashMap<>();
