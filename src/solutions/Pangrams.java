@@ -22,7 +22,7 @@ public class Pangrams {
 			alphabet = getAlphabet();
 			for (int i = 0; i < input.length(); i++)
 				alphabet.remove((Character) Character.toLowerCase(input.charAt(i)));
-			System.out.println(alphabet);
+			
 			if (alphabet.isEmpty())
 				System.out.println("pangram");
 			else
