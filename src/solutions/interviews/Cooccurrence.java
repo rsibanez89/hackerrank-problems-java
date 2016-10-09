@@ -82,6 +82,8 @@ public class Cooccurrence {
 			Scanner stInput = new Scanner(System.in);
 			String A = "hat";
 			String B = "cat";
+			
+			// Process every input O(1)
 			while (stInput.hasNext()) {
 				A = stInput.next();
 				B = stInput.next();
