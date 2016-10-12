@@ -21,5 +21,5 @@ Ctrl + Shift + /       -> removes the /*...*/
 
 ### Identation
 ```
-Ctrl + Shift + F       -> format all the document
+Ctrl + Shift + F       -> format the document
 ```

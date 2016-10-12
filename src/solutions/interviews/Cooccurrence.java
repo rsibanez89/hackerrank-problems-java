@@ -12,6 +12,9 @@ import java.util.regex.Pattern;
 
 public class Cooccurrence {
 
+	// To execute form the console
+	// E:\hackerrank-problems-java\bin>java solutions.interviews.Cooccurrence "../res/cat-in-the-hat.txt" 3
+	
 	public static void main(String[] args) {
 		try {
 			String path = "res/cat-in-the-hat.txt";
